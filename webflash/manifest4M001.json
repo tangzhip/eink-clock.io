@@ -1,0 +1,13 @@
+{
+    "name": "Eink-Clock 0.1-20240625",
+    "new_install_prompt_erase": true,
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "improv": false,
+        "parts": [
+          { "path": "firmware/onlyone001.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
